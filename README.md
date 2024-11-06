@@ -1,7 +1,7 @@
 # ggb expr rewriter to Nim
 
 ## Why It's Born
-I once used [GeoGebra](GeoGebra.org) a lot.
+I once used [GeoGebra](https://geogebra.org) a lot.
 While such a great software is it,
 what annoys me very much is `GGBscript` written inside cannot have any word-wrap or
 breaking code into multiply lines instead of keeping writing some closing `)))))` within a single line!
